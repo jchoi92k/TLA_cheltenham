@@ -1,0 +1,29 @@
+{
+  "On-Track Measures": [
+    "Attendance - Percent of Students Not Chronically Absent (All)",
+    "Percent of 3rd Graders Reading at Grade Level"
+  ],
+  "State Assessment Measures": [
+    "Mathematics - Meeting Annual Academic Growth Expectations",
+    "Mathematics - Percent Proficient or Advanced on PSSA Exam",
+    "Science - Percent Advanced on PSSA Exam",
+    "Mathematics - Percent Advanced on PSSA Exam",
+    "Reading - Percent Advanced on PSSA Exam",
+    "Reading - Meeting Annual Academic Growth Expectations",
+    "Reading - Percent Proficient or Advanced on PSSA Exam",
+    "Science - Meeting Annual Academic Growth Expectations",
+    "Science - Percent Proficient or Advanced on PSSA Exam",
+    "ELA - Meeting Annual Academic Growth Expectations",
+    "ELA - Percent Proficient or Advanced on PSSA Exam",
+    "ELA - Percent Advanced on PSSA Exam"
+  ],
+  "Teacher Qualifications": [
+    "Average Years of Educational Experience (In District)",
+    "Average Years of Educational Experience (In LEA)",
+    "Percent of Classes Taught by Highly Qualified Teachers"
+  ],
+  "School Enrollment": [
+    "Percent of Gifted Students",
+    "School Enrollment"
+  ]
+}

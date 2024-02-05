@@ -1,0 +1,56 @@
+School Name,Year,Attendance - Percent of Students Not Chronically Absent (All),Mathematics - Meeting Annual Academic Growth Expectations,Mathematics - Percent Proficient or Advanced on PSSA Exam,Science - Percent Advanced on PSSA Exam,Mathematics - Percent Advanced on PSSA Exam,Reading - Percent Advanced on PSSA Exam,Reading - Meeting Annual Academic Growth Expectations,Reading - Percent Proficient or Advanced on PSSA Exam,Science - Meeting Annual Academic Growth Expectations,Science - Percent Proficient or Advanced on PSSA Exam,ELA - Meeting Annual Academic Growth Expectations,ELA - Percent Proficient or Advanced on PSSA Exam,ELA - Percent Advanced on PSSA Exam,Average Years of Educational Experience (In LEA),Average Years of Educational Experience (Total),Percent of Classes Taught by Highly Qualified Teachers,Percent of Gifted Students,School Enrollment,Percent of 3rd Graders Reading at Grade Level
+Cedarbrook Middle School,2013,96.41,100,84.65,34.81,62.98,58.11,77,83.07,100,67.95,,,,9.77,12.08,100,11.08,740,
+Cheltenham Elementary,2013,96.23,100,88.7,55.1,59.89,41.81,86,80.22,73,87.75,,,,11.91,14.79,100,4.06,419,
+Cheltenham High School,2013,93.03,50,76.8,9.12,35.11,15.67,85,84.95,50,45.28,,,,9.54,12.23,100,12.36,1448,
+Elkins Park Schoolool,2013,96.53,50,78.2,,54.5,37.91,90,70.62,,,,,,13.19,15.36,100,9.91,656,
+Glenside Elementary,2013,96.22,84,81.71,54.22,47.56,35.98,69,76.83,81,77.11,,,,11.35,13.35,100,1.94,463,
+Myers Elementary,2013,96.67,85,86.9,42.47,51.03,33.79,73,80,57,84.93,,,,14.39,17.11,100,3.88,361,
+Wyncote Elementary,2013,95.9,100,86.67,61.9,62.42,47.88,77,87.88,76,88.09,,,,9.74,11.77,100,0.24,416,
+Cedarbrook Middle School,2014,95.89,95.33,88.5,37.13,69.59,64.04,86,86.65,100,75.75,,,,11.18,13.33,100,10,680,
+Cheltenham Elementary,2014,95.99,67,83.63,40.23,48.54,36.26,89,81.29,70,82.76,,,,13.93,16.31,100,3.2,437,
+Cheltenham High School,2014,92.84,50,74.02,9.31,17.52,12.05,52,84.04,50,56.16,,,,11.14,13.42,100,11.47,1473,
+Elkins Park School,2014,96.15,73,80.44,,57.94,39.35,69,70.63,,,,,,14.79,16.57,100,11.19,706,
+Glenside Elementary,2014,95.94,100,80,57.3,52.22,41.67,75,82.78,100,91.01,,,,12,13.5,100,2.42,495,
+Myers Elementary,2014,96.1,77,87.88,36.11,50,44.7,87,85.61,71,81.94,,,,16.64,19.28,100,5.49,346,
+Wyncote Elementary,2014,96.64,100,85,58.75,63.75,55.35,74,85.53,77,87.5,,,,10.79,11.79,100,2.12,424,
+Cedarbrook Middle School,2015,,,,,,,,,,,,,,11.27,13.73,84.14,10.48,687,
+Cheltenham Elementary,2015,,,,,,,,,,,,,,14.33,16.26,100,1.94,464,
+Cheltenham High School,2015,93.9,50,70.21,19.52,13.7,,,,50,64.04,52,,,11.23,13.54,98.74,10.78,1466,
+Elkins Park School,2015,,,,,,,,,,,,,,14.63,16.23,100,10.25,683,
+Glenside Elementary,2015,,,,,,,,,,,,,,12.53,14.17,100,2.02,494,
+Myers Elementary,2015,,,,,,,,,,,,,,17.36,20.18,100,6.76,340,
+Wyncote Elementary,2015,,,,,,,,,,,,,,11.76,12.76,100,3.17,441,
+Cedarbrook Middle School,2016,95.92,98,42.15,32.52,17.37,,,,79,61.4,73,62.56,20.6,11.15,13.62,100,10.99,719,
+Cheltenham Elementary,2016,96.45,88,62.98,45.98,28.73,,,,77,78.16,77,62.98,19.89,11.68,13.93,100,0.61,490,
+Cheltenham High School,2016,92.82,50,68.13,35.47,30.41,,,,94,65.99,80,79.71,11.59,11.93,14.24,100,11.27,1366,
+Elkins Park School,2016,95.78,52,52.74,,26.29,,,,,,50,63.08,18.07,13.79,15.19,100,9.82,682,
+Glenside Elementary,2016,95.91,94,65.41,68.75,37.3,,,,100,91.67,82,70.65,29.35,12.03,13.69,100,1.25,480,
+Myers Elementary,2016,96.57,76,57.34,47.44,27.27,,,,72,79.49,79,68.53,20.98,17.61,20.3,100,5.28,379,
+Wyncote Elementary,2016,96.35,75,61.9,46.07,30.36,,,,88,83.15,72,68.45,25,11.76,12.9,100,2.86,419,
+Cedarbrook Middle School,2017,96.01,50,40.71,22.43,18.27,,,,66,52.65,98,64.51,19.91,11.89,14.21,,10.39,693,
+Cheltenham Elementary,2017,96.65,73,48.15,25.96,25,,,,52,73.08,91,69.44,25.93,10.82,12.58,,0.39,515,
+Cheltenham High School,2017,94.23,50,64.53,31.52,26.91,,,,58,64.55,76,74.23,12.27,11.79,13.89,,10.01,1438,
+Elkins Park School,2017,96.54,50,44.35,,19.05,,,,,,50,63.17,19.97,12.96,14.86,,9.86,720,
+Glenside Elementary,2017,96.37,75,59.09,40,32.83,,,,100,84.21,77,70.71,29.8,13.55,15.39,,1.65,485,
+Myers Elementary,2017,96.23,67,56.12,34.92,23.02,,,,71,79.37,78,72.66,18.71,17.54,20.54,,3.52,369,
+Wyncote Elementary,2017,98.36,100,63.1,51.28,30.95,,,,100,93.59,100,76.79,38.1,12.59,13.68,,5.03,398,
+Cheltenham Elementary,2019,96.50%,100,56.7,46.8,20.2,,,,89,91.1,98,73.6,24.7,,,,,,65.7
+Glenside Elementary,2019,95.10%,89,64.9,39.1,29.8,,,,79,86.2,73,72.5,29.8,,,,,,71.4
+Myers Elementary,2019,91.20%,71,51.9,40,23.4,,,,71,71.3,76,62.9,25.2,,,,,,60.3
+Wyncote Elementary,2019,95.10%,81,54.7,50.6,28,,,,85,84,74,72,31.3,,,,,,63.2
+Cheltenham Elementary,2020,95.10%,100,56.7,46.8,20.2,,,,89,91.1,98,73.6,24.7,,,,,,65.7
+Glenside Elementary,2020,95.60%,89,64.9,39.1,29.8,,,,79,86.2,73,72.5,29.8,,,,,,71.4
+Myers Elementary,2020,96.00%,71,51.9,40,23.4,,,,71,71.3,76,62.9,25.2,,,,,,60.3
+Wyncote Elementary,2020,96.40%,81,54.7,50.6,28,,,,85,84,74,72,31.3,,,,,,63.2
+Cheltenham Elementary,2021,94.40%,,25.4,30.3,11.1,,,,,69.7,,52.6,17.5,,,,,,52
+Glenside Elementary,2021,95.40%,,48.6,46.7,12.2,,,,,80,,64.2,17.3,,,,,,75
+Myers Elementary,2021,90.80%,,,,,,,,,,,,,,,,,,50
+Wyncote Elementary,2021,96.00%,,48.4,54.8,18.7,,,,,81,,68.1,25.5,,,,,,64
+Cheltenham Elementary,2022,92.30%,90,31,30.3,6.5,,,,87,71.1,72,37.4,4.5,,,,,,35.9
+Glenside Elementary,2022,96.20%,83,45,43.4,21.3,,,,76,75.9,53,54,13.7,,,,,,59
+Myers Elementary,2022,92.40%,,57.5,42.9,23.9,,,,,71.4,,62.8,23,,,,,,70.2
+Wyncote Elementary,2022,97.20%,88,57.9,55.1,26.2,,,,100,83.3,100,61.1,27,,,,,,50
+Cheltenham Elementary,2023,88.00%,61,31.8,15.4,8.1,,,,69,61.5,84,38.5,8.8,,,,1,401,44.4
+Glenside Elementary,2023,89.60%,91,60.9,44.2,22.4,,,,82,75.3,73,62.8,18.6,,,,2.9,411,65.8
+Myers Elementary,2023,90.10%,76,60.9,45.8,23.5,,,,78,83.1,74,63.5,23.5,,,,1,302,57.1
+Wyncote Elementary,2023,93.70%,83,61.7,57.4,29.3,,,,100,83.3,77,67.7,21.1,,,,3.6,362,70.9

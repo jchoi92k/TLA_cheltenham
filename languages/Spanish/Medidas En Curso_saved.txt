@@ -1,0 +1,34 @@
+### Resumen de las Medidas de Seguimiento
+
+Las Medidas de Seguimiento son indicadores utilizados para determinar si los estudiantes están en el camino hacia el éxito académico y la graduación eventual. Estas medidas a menudo incluyen tasas de asistencia y habilidades de alfabetización temprana, ya que son fuertes predictores del rendimiento académico futuro.
+
+En el contexto de los datos del Perfil de Rendimiento Escolar de Pensilvania (SPP), las Medidas de Seguimiento en las que has decidido enfocarte son:
+
+1. **Asistencia - Porcentaje de Estudiantes No Crónicamente Ausentes (Todos):** Esta medida indica el porcentaje de estudiantes que asisten regularmente a la escuela y no están crónicamente ausentes. La ausencia crónica se define típicamente como faltar un cierto porcentaje de días escolares por cualquier motivo, justificado o no. La asistencia regular es crucial porque los estudiantes que están frecuentemente ausentes pierden tiempo crítico de instrucción y tienen más probabilidades de quedarse atrás en su aprendizaje.
+
+2. **Porcentaje de Estudiantes de 3er Grado Leyendo a Nivel de Grado:** Esta medida refleja el porcentaje de estudiantes de tercer grado que han alcanzado el nivel de competencia en lectura que se espera para su grado. La competencia en lectura en tercer grado es un hito clave porque marca la transición de aprender a leer a leer para aprender. Los estudiantes que no son competentes en lectura al final del tercer grado tienen más probabilidades de tener dificultades en grados posteriores cuando se encuentran con textos y conceptos más complejos.
+
+### Datos Disponibles
+
+Los datos que tienes incluyen estas dos Medidas de Seguimiento para varias escuelas a lo largo de varios años. Puedes utilizar estos datos para comparar cómo se desempeñan diferentes escuelas en términos de mantener a los estudiantes asistiendo regularmente y asegurándose de que están desarrollando fuertes habilidades de lectura fundamentales para el tercer grado.
+
+### Preguntas para Comparar Escuelas
+
+Aquí hay algunas preguntas que podrías considerar hacer para comparar las escuelas utilizando las Medidas de Seguimiento:
+
+1. **¿Qué escuela tiene el mayor porcentaje de estudiantes no crónicamente ausentes?**
+   - Esta pregunta te ayudará a identificar las escuelas que tienen más éxito en mantener altas tasas de asistencia.
+
+2. **¿Cómo cambia la tasa de asistencia a lo largo de los años para una escuela en particular?**
+   - Observar las tendencias a lo largo del tiempo puede darte una idea de si una escuela está mejorando en sus esfuerzos para reducir el ausentismo crónico.
+
+3. **¿Qué escuela tiene el mayor porcentaje de estudiantes de 3er grado leyendo a nivel de grado?**
+   - Esto te mostrará qué escuelas son más efectivas para asegurar el éxito temprano en la alfabetización entre sus estudiantes.
+
+4. **¿Existen correlaciones entre las tasas de asistencia y la competencia en lectura en tercer grado?**
+   - Al examinar la relación entre estas dos medidas, puedes ver si una mayor asistencia se asocia con mejores resultados de lectura.
+
+5. **¿Cómo varían estas medidas según el tamaño de la escuela u otros factores demográficos?**
+   - Podrías querer considerar cómo los números de matrícula escolar o el porcentaje de estudiantes dotados, por ejemplo, podrían relacionarse con estas Medidas de Seguimiento.
+
+Al explorar estas preguntas, puedes obtener una mejor comprensión de cómo se desempeñan diferentes escuelas en términos de mantener a los estudiantes en el camino hacia el éxito académico.

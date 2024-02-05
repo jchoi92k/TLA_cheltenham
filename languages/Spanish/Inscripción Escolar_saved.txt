@@ -1,0 +1,32 @@
+### Resumen de la Matrícula Escolar
+
+El tema que has elegido, "Matrícula Escolar", se refiere al número de estudiantes que están inscritos en una escuela. Esta es una medida básica del tamaño del cuerpo estudiantil de la escuela. Además de la matrícula total, también estás interesado en el "Porcentaje de Estudiantes Dotados", que indica la proporción de estudiantes que han sido identificados como dotados, es decir, han sido reconocidos por tener habilidades o talentos académicos excepcionales.
+
+### Datos Disponibles
+
+En los datos que tienes, hay dos columnas relacionadas con la matrícula escolar:
+
+1. **Porcentaje de Estudiantes Dotados**: Esta columna muestra el porcentaje de la población estudiantil que ha sido identificada como dotada. Un porcentaje más alto podría indicar que la escuela tiene un fuerte programa para estudiantes dotados o que atrae a familias con niños que han sido identificados como dotados.
+
+2. **Matrícula Escolar**: Esta columna muestra el número total de estudiantes matriculados en la escuela. El tamaño de la escuela puede impactar muchos aspectos de la experiencia educativa, desde el tamaño de las clases hasta la diversidad de ofertas de cursos y actividades extracurriculares.
+
+### Preguntas para Comparar Escuelas
+
+Aquí hay algunas preguntas que podrías hacer para comparar escuelas basándote en los datos que tienes:
+
+1. **¿Cuál es el tamaño promedio de matrícula escolar?**
+   - Esta pregunta te ayudará a entender el tamaño típico de las escuelas en el conjunto de datos. Las escuelas más pequeñas podrían ofrecer un ambiente de aprendizaje más íntimo, mientras que las escuelas más grandes podrían tener más recursos y opciones extracurriculares.
+
+2. **¿Qué escuelas tienen el porcentaje más alto y más bajo de estudiantes dotados?**
+   - Identificar las escuelas con los porcentajes más altos y más bajos de estudiantes dotados puede darte una idea de qué escuelas podrían tener programas más robustos o una comunidad más grande de estudiantes dotados.
+
+3. **¿Existe una correlación entre el tamaño de la matrícula escolar y el porcentaje de estudiantes dotados?**
+   - Al explorar esta pregunta, puedes determinar si las escuelas más grandes o más pequeñas tienden a tener una mayor proporción de estudiantes dotados. Esto podría influir en tu decisión si estás buscando una escuela con una fuerte comunidad de estudiantes dotados.
+
+4. **¿Cómo ha cambiado el tamaño de la matrícula y el porcentaje de estudiantes dotados a lo largo de los años para una escuela en particular?**
+   - Observar las tendencias a lo largo del tiempo puede proporcionar información sobre si una escuela está creciendo o disminuyendo y si el programa para dotados se está expandiendo.
+
+5. **¿Existen outliers en términos de matrícula escolar o porcentaje de estudiantes dotados?**
+   - Identificar outliers puede ayudarte a detectar escuelas que son significativamente diferentes del resto, lo cual podría ser de interés dependiendo de lo que estés buscando en una escuela.
+
+Al examinar estas preguntas, puedes obtener una mejor comprensión de las escuelas en el conjunto de datos y hacer comparaciones más informadas basadas en tus prioridades como padre.

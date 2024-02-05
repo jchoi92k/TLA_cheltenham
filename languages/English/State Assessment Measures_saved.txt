@@ -1,0 +1,34 @@
+### Overview of State Assessment Measures
+
+State Assessment Measures are used to evaluate the academic performance of students in various subjects. In Pennsylvania, the Pennsylvania System of School Assessment (PSSA) is a standardized test that assesses students' proficiency in Mathematics, Science, Reading, and English Language Arts (ELA). The results of these assessments are used to determine if students are meeting state standards and to gauge the effectiveness of the schools' educational programs.
+
+The data you have includes several key metrics:
+
+1. **Meeting Annual Academic Growth Expectations**: This measures whether students are making the expected year-to-year progress in a subject. A score of 100 would mean that the school has met the growth expectations for all students.
+
+2. **Percent Proficient or Advanced on PSSA Exam**: This percentage indicates the proportion of students who scored at or above the proficient level on the PSSA exams. Proficient or advanced scores suggest that students have a solid understanding of the subject matter.
+
+3. **Percent Advanced on PSSA Exam**: This is a more specific metric that shows the percentage of students who achieved an advanced score on the PSSA exams, indicating a higher level of mastery in the subject.
+
+These metrics are available for Mathematics, Science, Reading, and ELA, providing a comprehensive view of student performance across these core subjects.
+
+### Questions to Compare Schools
+
+To compare schools using the State Assessment Measures, you can ask questions like:
+
+1. **Which school has the highest percentage of students meeting annual academic growth expectations in Mathematics?**
+   - This will tell you which school is most effective at helping students improve their math skills year over year.
+
+2. **How do schools compare in terms of the percentage of students scoring proficient or advanced in Science?**
+   - This comparison will give you an idea of which schools have a stronger science program.
+
+3. **Are there any schools that stand out for having a high percentage of students scoring advanced in Reading?**
+   - Schools with a high percentage of advanced readers may have strong literacy programs.
+
+4. **What is the trend in ELA performance over the years for a particular school?**
+   - Looking at trends can show you if a school is improving, declining, or remaining consistent in ELA performance.
+
+5. **Is there a correlation between the percentage of students meeting growth expectations and the percentage of students scoring proficient or advanced?**
+   - This question can help you understand if growth expectations align with overall proficiency levels.
+
+By examining these questions, you can gain insights into the academic strengths and weaknesses of each school and make more informed decisions about your child's education.

@@ -1,0 +1,20 @@
+### Resumen de las Calificaciones de los Profesores
+
+Las calificaciones de los profesores son un aspecto importante del perfil de una escuela, ya que pueden impactar en la calidad de la educación que reciben los estudiantes. En el contexto de los datos del Perfil de Rendimiento Escolar de Pensilvania (SPP), hay algunas métricas clave que pueden brindarte una visión de las calificaciones de los profesores en diferentes escuelas:
+
+1. **Años Promedio de Experiencia Educativa (En el Distrito)**: Esta métrica indica el número promedio de años que los profesores de una escuela han estado enseñando dentro del distrito escolar actual. Un número más alto sugiere que los profesores tienen más experiencia trabajando dentro del contexto específico del distrito, lo que podría significar que están más familiarizados con las políticas, recursos y población estudiantil del distrito.
+
+2. **Años Promedio de Experiencia Educativa (En la LEA)**: LEA significa Agencia de Educación Local, que es otro término para el distrito escolar o el sistema escolar local. Esta métrica muestra el número promedio de años que los profesores han estado enseñando en cualquier entorno educativo, no solo en el distrito actual. Proporciona una visión más amplia de la experiencia docente general del personal de la escuela.
+
+3. **Porcentaje de Clases Impartidas por Profesores Altamente Calificados**: Este porcentaje refleja la proporción de clases que son impartidas por profesores que cumplen con la definición federal de "altamente calificados". Esto generalmente significa que el profesor tiene al menos una licenciatura, certificación completa del estado y competencia probada en el área de la materia que están enseñando.
+
+### Preguntas para Comparar Escuelas
+
+Con estas métricas en mente, aquí hay algunas preguntas que podrías considerar hacer para comparar escuelas:
+
+- ¿Qué escuela tiene los años promedio más altos de experiencia educativa (tanto dentro del distrito como en general)?
+- ¿Cómo se compara el porcentaje de clases impartidas por profesores altamente calificados en las escuelas que me interesan?
+- ¿Existe una correlación entre la experiencia de los profesores y el rendimiento académico de los estudiantes en materias como matemáticas, ciencias y lectura?
+- ¿Cómo varía la experiencia y calificación del profesorado en escuelas con diferentes tamaños de matrícula o demografías?
+
+Al explorar estas preguntas, puedes obtener una mejor comprensión de las calificaciones del personal docente en cada escuela y cómo eso podría influir en los resultados educativos para los estudiantes.

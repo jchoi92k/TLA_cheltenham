@@ -1,0 +1,34 @@
+### Overview of On-Track Measures
+
+On-Track Measures are indicators used to determine whether students are on the path to academic success and eventual graduation. These measures often include attendance rates and early literacy skills, as they are strong predictors of future academic achievement.
+
+In the context of the Pennsylvania School Performance Profile (SPP) data, the On-Track Measures you've chosen to focus on are:
+
+1. **Attendance - Percent of Students Not Chronically Absent (All):** This measure indicates the percentage of students who are regularly attending school and are not chronically absent. Chronic absenteeism is typically defined as missing a certain percentage of school days for any reason, excused or unexcused. Regular attendance is crucial because students who are frequently absent miss out on critical instruction time and are more likely to fall behind in their learning.
+
+2. **Percent of 3rd Graders Reading at Grade Level:** This measure reflects the percentage of third-grade students who have reached the reading proficiency level that is expected for their grade. Reading proficiency by third grade is a key milestone because it marks the transition from learning to read to reading to learn. Students who are not proficient in reading by the end of third grade are more likely to struggle in later grades when they encounter more complex texts and concepts.
+
+### Available Data
+
+The data you have includes these two On-Track Measures for various schools across multiple years. You can use this data to compare how different schools are performing in terms of keeping students regularly attending and ensuring they are developing strong foundational reading skills by third grade.
+
+### Questions to Compare Schools
+
+Here are a few questions you might consider asking to compare the schools using the On-Track Measures:
+
+1. **Which school has the highest percentage of students not chronically absent?**
+   - This question will help you identify the schools that are most successful in maintaining high attendance rates.
+
+2. **How does the attendance rate change over the years for a particular school?**
+   - Looking at trends over time can give you insights into whether a school is improving in its efforts to reduce chronic absenteeism.
+
+3. **Which school has the highest percentage of 3rd graders reading at grade level?**
+   - This will show you which schools are most effective at ensuring early literacy success among their students.
+
+4. **Are there any correlations between attendance rates and reading proficiency in third grade?**
+   - By examining the relationship between these two measures, you can see if higher attendance is associated with better reading outcomes.
+
+5. **How do these measures vary by school size or other demographic factors?**
+   - You might want to consider how school enrollment numbers or the percentage of gifted students, for example, might relate to these On-Track Measures.
+
+By exploring these questions, you can gain a better understanding of how different schools are performing in terms of keeping students on track for academic success.

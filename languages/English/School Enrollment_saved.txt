@@ -1,0 +1,32 @@
+### Overview of School Enrollment
+
+The topic you've chosen, "School Enrollment," refers to the number of students who are enrolled in a school. This is a basic measure of the size of the school's student body. In addition to the total enrollment, you're also interested in the "Percent of Gifted Students," which indicates the proportion of students who have been identified as gifted, meaning they have been recognized for having exceptional academic abilities or talents.
+
+### Available Data
+
+In the data you have, there are two columns related to school enrollment:
+
+1. **Percent of Gifted Students**: This column shows the percentage of the student population that has been identified as gifted. A higher percentage could indicate that the school has a strong program for gifted students or that it attracts families with children who have been identified as gifted.
+
+2. **School Enrollment**: This column shows the total number of students enrolled in the school. The size of the school can impact many aspects of the educational experience, from class sizes to the diversity of course offerings and extracurricular activities.
+
+### Questions to Compare Schools
+
+Here are a few questions you might ask to compare schools based on the data you have:
+
+1. **What is the average school enrollment size?**
+   - This question will help you understand the typical size of schools in the dataset. Smaller schools might offer a more intimate learning environment, while larger schools might have more resources and extracurricular options.
+
+2. **Which schools have the highest and lowest percentage of gifted students?**
+   - Identifying the schools with the highest and lowest percentages of gifted students can give you insight into which schools might have more robust programs or a larger community of gifted students.
+
+3. **Is there a correlation between school enrollment size and the percent of gifted students?**
+   - By exploring this question, you can determine if larger or smaller schools tend to have a higher proportion of gifted students. This might influence your decision if you are looking for a school with a strong community of gifted students.
+
+4. **How has the enrollment size and percent of gifted students changed over the years for a particular school?**
+   - Looking at trends over time can provide insights into whether a school is growing or shrinking and whether the gifted program is expanding.
+
+5. **Are there any outliers in terms of school enrollment or percent of gifted students?**
+   - Identifying outliers can help you spot schools that are significantly different from the rest, which might be of interest depending on what you're looking for in a school.
+
+By examining these questions, you can gain a better understanding of the schools in the dataset and make more informed comparisons based on your priorities as a parent.

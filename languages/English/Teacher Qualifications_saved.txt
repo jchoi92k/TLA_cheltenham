@@ -1,0 +1,20 @@
+### Overview of Teacher Qualifications
+
+Teacher qualifications are an important aspect of a school's profile, as they can impact the quality of education that students receive. In the context of the Pennsylvania School Performance Profile (SPP) data, there are a few key metrics that can give you insight into the qualifications of teachers at different schools:
+
+1. **Average Years of Educational Experience (In District)**: This metric indicates the average number of years that teachers at a school have been teaching within the current school district. A higher number suggests that teachers have more experience working within the specific context of the district, which could mean they are more familiar with the district's policies, resources, and student population.
+
+2. **Average Years of Educational Experience (In LEA)**: LEA stands for Local Education Agency, which is another term for the school district or the local school system. This metric shows the average number of years that teachers have been teaching in any educational setting, not just the current district. It provides a broader view of the overall teaching experience of the school's staff.
+
+3. **Percent of Classes Taught by Highly Qualified Teachers**: This percentage reflects the proportion of classes that are taught by teachers who meet the federal definition of "highly qualified." This typically means that the teacher has at least a bachelor's degree, full state certification, and proven competency in the subject area they are teaching.
+
+### Questions to Compare Schools
+
+With these metrics in mind, here are a few questions you might consider asking to compare schools:
+
+- Which school has the highest average years of educational experience (both within the district and overall)?
+- How does the percentage of classes taught by highly qualified teachers compare across the schools I'm interested in?
+- Is there a correlation between the experience of teachers and the academic performance of students in subjects like mathematics, science, and reading?
+- How does teacher experience and qualification vary across schools with different enrollment sizes or demographics?
+
+By exploring these questions, you can gain a better understanding of the teaching staff's qualifications at each school and how that might influence the educational outcomes for students.

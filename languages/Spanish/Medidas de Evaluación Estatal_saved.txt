@@ -1,0 +1,34 @@
+### Resumen de las Medidas de Evaluación Estatal
+
+Las Medidas de Evaluación Estatal se utilizan para evaluar el rendimiento académico de los estudiantes en varias materias. En Pensilvania, el Sistema de Evaluación Escolar de Pensilvania (PSSA) es una prueba estandarizada que evalúa la competencia de los estudiantes en Matemáticas, Ciencias, Lectura y Artes del Lenguaje Inglés (ELA). Los resultados de estas evaluaciones se utilizan para determinar si los estudiantes están cumpliendo con los estándares estatales y para medir la efectividad de los programas educativos de las escuelas.
+
+Los datos que tienes incluyen varias métricas clave:
+
+1. **Cumplimiento de las Expectativas de Crecimiento Académico Anual**: Esta medida indica si los estudiantes están logrando el progreso esperado de un año a otro en una materia. Una puntuación de 100 significaría que la escuela ha cumplido con las expectativas de crecimiento para todos los estudiantes.
+
+2. **Porcentaje de Competencia o Avanzado en el Examen PSSA**: Este porcentaje indica la proporción de estudiantes que obtuvieron una puntuación en el nivel competente o superior en los exámenes PSSA. Las puntuaciones competentes o avanzadas sugieren que los estudiantes tienen una sólida comprensión de la materia.
+
+3. **Porcentaje de Avanzado en el Examen PSSA**: Esta es una métrica más específica que muestra el porcentaje de estudiantes que obtuvieron una puntuación avanzada en los exámenes PSSA, indicando un mayor nivel de dominio en la materia.
+
+Estas métricas están disponibles para Matemáticas, Ciencias, Lectura y ELA, proporcionando una visión completa del rendimiento de los estudiantes en estas materias fundamentales.
+
+### Preguntas para Comparar Escuelas
+
+Para comparar escuelas utilizando las Medidas de Evaluación Estatal, puedes hacer preguntas como:
+
+1. **¿Qué escuela tiene el mayor porcentaje de estudiantes que cumplen con las expectativas de crecimiento académico anual en Matemáticas?**
+   - Esto te dirá qué escuela es más efectiva para ayudar a los estudiantes a mejorar sus habilidades matemáticas año tras año.
+
+2. **¿Cómo se comparan las escuelas en términos del porcentaje de estudiantes que obtienen puntuaciones competentes o avanzadas en Ciencias?**
+   - Esta comparación te dará una idea de qué escuelas tienen un programa de ciencias más fuerte.
+
+3. **¿Hay alguna escuela que destaque por tener un alto porcentaje de estudiantes con puntuaciones avanzadas en Lectura?**
+   - Las escuelas con un alto porcentaje de lectores avanzados pueden tener fuertes programas de alfabetización.
+
+4. **¿Cuál es la tendencia en el rendimiento de ELA a lo largo de los años para una escuela en particular?**
+   - Observar las tendencias puede mostrarte si una escuela está mejorando, disminuyendo o manteniendo un rendimiento constante en ELA.
+
+5. **¿Existe una correlación entre el porcentaje de estudiantes que cumplen con las expectativas de crecimiento y el porcentaje de estudiantes que obtienen puntuaciones competentes o avanzadas?**
+   - Esta pregunta puede ayudarte a entender si las expectativas de crecimiento se alinean con los niveles generales de competencia.
+
+Al examinar estas preguntas, puedes obtener información sobre las fortalezas y debilidades académicas de cada escuela y tomar decisiones más informadas sobre la educación de tu hijo.
